@@ -24,4 +24,4 @@
 </div>
 <br/>
 
-Apaixonado por tecnologia desde criança, me formei em Análise e Desenvolvimento de Sistemas em 2019, e agora no final de 2021, estou estudando para ser desenvolvedor Full-Stack, através do curso do ProgramadorBR.
+Apaixonado por tecnologia desde criança, sou formado em Análise e Desenvolvimento de Sistemas.
